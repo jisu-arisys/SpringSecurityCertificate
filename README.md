@@ -4,7 +4,7 @@ project name : seacurity
 autor : umjisu
 date : 2023.09- 2023.09
 
-Git url :
+Git url : https://github.com/jisu-arisys/SpringSecurityCertificate.git
 
 
 스프링 시큐리티의 config 설정방법을 학습하고,
